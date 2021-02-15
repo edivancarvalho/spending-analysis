@@ -1,7 +1,7 @@
 # spending-analysis
 ---
 
-##Sistema para controle de gasto pessoal onde a idéia e pega todos os gastos pessoal será salvo na plataforma, onde o ideia e ao fazer uma comprar ao gera o cumpon fiscal e que esse dados sejam baixados e salvo na plataforma onde :
+##  Sistema para controle de gasto pessoal onde a idéia e pega todos os gastos pessoal será salvo na plataforma, onde o ideia e ao fazer uma comprar ao gera o cumpon fiscal e que esse dados sejam baixados e salvo na plataforma onde :
 
 * Os dados do cumpon fiscal fique salvo na plataforma.
 * sabe o valores de todos os impostos gatos durante o mes das compras.
